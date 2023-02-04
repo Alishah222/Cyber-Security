@@ -39,3 +39,8 @@ Password attacks are a type of cyber attack that target user passwords in order 
 ### TYPES
 * Brute Force Attack: This type of attack involves trying many different combinations of passwords and usernames in an attempt to guess the correct combination. 
 * Dictionary Attack: This type of attack uses a list of commonly used passwords to attempt to gain access.
+* Phishing Attack: This type of attack involves tricking users into revealing their passwords through fake login pages or other fraudulent methods.
+* Rainbow Table Attack: This type of attack involves precomputing hashes of commonly used passwords and comparing them to hashes of passwords that have been stolen.
+* Social Engineering Attack: This type of attack involves tricking people into revealing their passwords through psychological manipulation.
+### To prevent password attacks, it is important to use strong, unique passwords, enable two-factor authentication when available, and to be cautious of suspicious emails or requests for sensitive information. Additionally, it is recommended to frequently change passwords and to use a password manager to securely store passwords.
+* ## 
