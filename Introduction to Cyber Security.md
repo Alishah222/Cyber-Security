@@ -1,3 +1,5 @@
+# Why We Need Cyber Security?
+Cybersecurity is important to keep our personal and sensitive information safe from being stolen or misused by hackers or other unauthorized people online.
 # what is cyber security?
 Cybersecurity is the practice of protecting computer systems, networks, and online assets from theft, damage, or unauthorized access. It involves implementing technologies, processes, and policies to secure sensitive data and prevent cyber attacks, data breaches, and other security incidents.
 ## CIA TRAID
@@ -43,4 +45,7 @@ Password attacks are a type of cyber attack that target user passwords in order 
 * Rainbow Table Attack: This type of attack involves precomputing hashes of commonly used passwords and comparing them to hashes of passwords that have been stolen.
 * Social Engineering Attack: This type of attack involves tricking people into revealing their passwords through psychological manipulation.
 ### To prevent password attacks, it is important to use strong, unique passwords, enable two-factor authentication when available, and to be cautious of suspicious emails or requests for sensitive information. Additionally, it is recommended to frequently change passwords and to use a password manager to securely store passwords.
-* ## 
+* ## Rogue software
+Rogue software is a type of malicious software that pretends to be helpful but actually causes harm to your computer. It may look like a security program, but it actually steals your information, displays false alerts, and installs other harmful software. To protect yourself, only download software from trusted sources, be cautious of unexpected security alerts, and keep your computer's security software updated.
+# Cognative Cyber Security
+Cognitive cybersecurity refers to the use of artificial intelligence and machine learning algorithms to enhance and automate the process of detecting, preventing, and responding to cyber threats. The goal of cognitive cybersecurity is to augment human expertise with the ability of computers to analyze and make decisions based on vast amounts of data, in real-time. This can help organizations better protect their networks and systems from cyber attacks, improve incident response times, and reduce the risk of data breaches.
