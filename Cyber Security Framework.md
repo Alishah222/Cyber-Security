@@ -7,4 +7,5 @@ Cybersecurity frameworks provide a common set of guidelines and best practices f
  An international standard that outlines the requirements for an information security management system (ISMS).
  * ## Critical Security Control
  The Critical Security Controls (CIS Controls) are a prioritized set of actions that organizations can take to improve their cybersecurity posture and defend against cyber threats. They were developed by the Center for Internet Security (CIS) and are designed to be a practical and actionable approach to cybersecurity.
- 
+ * ## PCI-DSS
+The Payment Card Industry Data Security Standard (PCI-DSS) is a set of security standards designed to ensure that all companies that accept, process, store or transmit credit card information maintain a secure environment. PCI-DSS applies to all organizations, regardless of size or number of transactions, that accept, transmit, or store any cardholder data.
